@@ -1,0 +1,23 @@
+{
+  "name": "learn-electron",
+  "version": "0.1.0",
+  "description": "learning project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "electron": "./node_modules/.bin/electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KE-NIA/learn-electron.git"
+  },
+  "author": "ke-nia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KE-NIA/learn-electron/issues"
+  },
+  "homepage": "https://github.com/KE-NIA/learn-electron#readme",
+  "devDependencies": {
+    "electron": "^1.4.3"
+  }
+}
