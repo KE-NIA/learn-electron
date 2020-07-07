@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/KE-NIA/learn-electron#readme",
   "devDependencies": {
-    "electron": "^1.4.3"
+    "electron": "^9.1.0"
   }
 }
